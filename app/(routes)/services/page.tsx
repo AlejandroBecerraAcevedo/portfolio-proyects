@@ -11,8 +11,9 @@ const Services = () => {
             <TransitionPage/>
             <CoverParticles/>
             <CircleImage/>
-            <AvatarServices/>  
-
+            <AvatarServices/>     
+            
+            
             <ContainerPage>
                 <div className="grid items-center justify-center 
                     h-screen max-w-5xl gap-6 mx-auto md:grid-cols-2 md:px-20"
@@ -40,12 +41,10 @@ const Services = () => {
                     </div>
                     <SliderServices/>
                 </div>   
-
-
-
-            </ContainerPage>
-               
+            </ContainerPage>    
+                   
         </>
+        
     );
 }
 

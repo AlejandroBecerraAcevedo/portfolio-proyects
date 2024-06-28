@@ -19,7 +19,7 @@ const PortfolioPage = () => {
             <CircleImage />
             <div className="flex flex-col justify-center h-full">
                 <h1 className="text-2xl leading-tight text-center md:text-4xl md:mb-5">
-                    Mis últimos 
+                    Mis últimos {" "}
 
                     <span className="font-bold text-secondary">
                         trabajos realizados
