@@ -30,7 +30,7 @@ const Services = () => {
                         </h2>
                         <p className="mb-3 text-xl text-gray-300">
                             Entre los servicios que ofrezco se encuentran el desarrollo de aplicaciones descentralizadas en ICP con Motoko y Azle, así como el desarrollo de Backend con Spring Boot,
-                            también me especializo en aplicaciones IOT con Arduino, Raspberry Pi y ESP32 como lo son los sistemas de control de piso.
+                            también me especializo en aplicaciones IOT con Arduino, Raspberry Pi y ESP32. Como lo son los sistemas de control de piso.
                         </p>   
                         <a href="/contact" className="px-3 py-2 rounded-lg bg-secondary 
                             hover:bg-secondary/65" 
