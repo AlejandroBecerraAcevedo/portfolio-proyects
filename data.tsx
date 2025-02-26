@@ -177,7 +177,7 @@ export const dataPortfolio = [
         urlDemo: "https://asemq-fiaaa-aaaap-qht3q-cai.icp0.io/"
     },
     {
-        id: 5,
+        id: 6,
         title: "Desarrollo de Aplicación de gestión de material reciclable urbano, descentralizada RecyExchange en APTOS network",
         image: "/Recyexchange.jpeg",
         urlGithub: "https://github.com/TaliaPalacio/RecyExchange/fork",
